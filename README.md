@@ -9,5 +9,5 @@ input a number then save that number to the database (MongoDB) AND render that a
 4. React js
 
 # quick start
-in terminal, 
+in terminal, <br/>
 ```npm install 'path/to/project/server' && npm install 'path/to/project/client'```
